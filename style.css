@@ -9,6 +9,7 @@ body {
     background-image: url(img/patronFondo.svg);
     background-size: 100%;
     background-color: #efefef;
+    background-opacity: 0.1;
     font-family: 'Rubik', sans-serif;
 }
 
@@ -89,7 +90,6 @@ nav {
 h2 {
     width: 25%;
     font-size: 20px;
-    text-justify: center;
 }
 
 .nav {
